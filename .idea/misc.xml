@@ -1,0 +1,35 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/drawable/bgnavmenu.xml" value="0.1905" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/drawable/camera_icon.xml" value="0.1905" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/drawable/custon_button.xml" value="0.1895" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/drawable/gallery_icon.xml" value="0.1905" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/drawable/roundcorner.xml" value="0.1905" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/drawable/roundtextbg.xml" value="0.1905" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/drawable/selector.xml" value="0.1895" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/drawable/textbg.xml" value="0.1895" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/drawable/txtchembg.xml" value="0.1895" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/font/montserrat.xml" value="0.2125" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/layout/activity_about.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/layout/activity_capture.xml" value="0.25" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/layout/activity_learnleafblight.xml" value="0.25" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/layout/activity_learnpurpleblotch.xml" value="0.22" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/layout/activity_result_viewer.xml" value="0.22" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/layout/recommendation_layout.xml" value="0.25" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/layout/resultlayout.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/menu/menu_navigation.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/menu/menubottom_navigation.xml" value="0.25" />
+        <entry key="..\:/Users/jomie/AndroidStudioProjects/OnionApp/app/src/main/res/xml/file_paths.xml" value="0.18229166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
